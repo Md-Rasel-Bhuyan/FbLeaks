@@ -1,2 +1,2 @@
 import os 
-os.system(id)
+os.system('id')
